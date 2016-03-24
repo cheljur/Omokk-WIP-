@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.utep.cs.cs4330.hw3.testingtest.MainActivity" >
+
+    <item android:id="@+id/settings"
+        android:title="Settings"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/exit"
+        android:title="Exit"
+        app:showAsAction="never"/>
+
+</menu>
